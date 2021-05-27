@@ -30,6 +30,14 @@
       <!-- Render the sub layout -->
       {{{ body }}}
     </main>
+
+    <section>
+        {{#if logged_in}}
+        <a href="/api/posts/newpost">New Posts</a>
+        {{/if}}
+    </section>
+
+
     <footer>
       
     </footer>
