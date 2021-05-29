@@ -1,0 +1,12 @@
+{{log post}}
+
+<div class="text-center">
+  <h2>Post Information</h2>
+  {{!-- <p>Created by {{user.name}} on {{format_date date_created}}</p> --}}
+    <p>ID: {{post.id}}</p>
+    <p>Title: {{post.title}}</p>
+    <p>{{post.text}}</p>  
+    <p>Created by user: {{post.user.name}}, on {{format_date post.createdAt}}</p>
+    
+  
+</div>
