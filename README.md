@@ -9,9 +9,9 @@
   This is a blog site where users can create posts. They are able to register, login, or logout. When a user successfully logs in, then they are able to create time stamped posts. The project follows the model-view-controller paradigm. 
 
   ## Installation
-  Application must be attached to a mysql database. Currently the credentials for this application are
-  DB_NAME=techblog_db
-  DB_USER=root
+  Application must be attached to a mysql database. Currently the credentials for this application are  
+  DB_NAME=techblog_db  
+  DB_USER=root  
   DB_PASSWORD=root
 
   ## Usage
