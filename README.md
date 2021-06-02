@@ -1,6 +1,4 @@
 # techBlog
-
-# Chicago Boating App
   ## Table of Contents
    - [Description](#Description)
    - [Installation](#Installation)
@@ -23,4 +21,4 @@
   Email: markdrecoll@gmail.com
 
   ## Demonstration
- 
+ https://drecoll-techblog.herokuapp.com/
