@@ -17,5 +17,5 @@ if (process.env.JAWSDB_URL) {
     }
   );
 }
-
+// temp
 module.exports = sequelize;
