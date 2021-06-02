@@ -1,4 +1,4 @@
-# techBlog
+# Tech Blog
   ## Table of Contents
    - [Description](#Description)
    - [Installation](#Installation)
